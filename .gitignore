@@ -12,3 +12,6 @@ build/
 # Claude Code personal permission settings — local only, never commit
 .claude/settings.local.json
 uv.lock
+
+# Personal MCP server config (may point at private accounts)
+.mcp.json
